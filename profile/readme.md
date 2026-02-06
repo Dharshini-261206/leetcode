@@ -10,7 +10,7 @@ Roll No | Name | Repo URL | Leetcode URL | Current Status
 6 | DHANUSHREE R | [Github](https://github.com/24149006-art/lcodetrackDhanu) | [Leetcode](https://leetcode.com/u/Jw0X62ALbE/) | ![](https://leetcard.jacoblin.cool/Jw0X62ALbE)
 7 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 8 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
-9 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
+9 | Dharshini S | [Github](https://github.com/dharshu-29/leettracker) | [Leetcode](https://leetcode.com/u/29072006/) | ![](https://leetcard.jacoblin.cool/29072006)
 10 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 11 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 12 | Divyasri K | [Github](https://github.com/divyasri242006/leetcode-solutions) | [Leetcode](https://leetcode.com/u/Divya_532007/) | ![](https://leetcard.jacoblin.cool/Divya_532007)
